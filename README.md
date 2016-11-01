@@ -1,3 +1,4 @@
 # hello-world
 First Repository.
-J Ho
+Codename:    J Ho
+Date:       10/31/16
