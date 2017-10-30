@@ -10,3 +10,8 @@ Details:  This Project will be about saving money.
 
 Notes:
 Need to find a way to organize my variables.
+
+for (x=0;x<365;x++)
+{
+
+}
